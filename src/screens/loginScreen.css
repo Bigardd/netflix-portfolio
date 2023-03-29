@@ -68,6 +68,10 @@
   width: 30%;
   border: none;
   max-width: 600px;
+  border-color: none;
+}
+.loginScreen_input > form > input:focus {
+  outline: none;
 }
 .loginScreen_getstarted {
   padding: 16px 20px;

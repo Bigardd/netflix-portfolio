@@ -4,8 +4,6 @@
 
 @media screen and (max-width: 600px) {
   .App {
-    display: flex;
-    width: 90vw;
     background-color: black;
   }
 }

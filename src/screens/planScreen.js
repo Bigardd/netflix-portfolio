@@ -77,7 +77,7 @@ export default function PlanScreen() {
     });
   };
   return (
-    <div className="planscreen">
+    <div className="planScreen">
       <br />
       {subscription && (
         <p>
